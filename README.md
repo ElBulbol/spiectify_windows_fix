@@ -7,7 +7,7 @@ One script that gets Spotify and Spicetify working on Windows, so you don't have
 Open **PowerShell** (a normal window, not as administrator) and paste this:
 
 ```powershell
-iwr -useb https://raw.githubusercontent.com/USER/REPO/main/Spotify-Spicetify-Setup.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/USER/REPO/main/Spotify-Spicetify-Setup.ps1](https://github.com/ElBulbol/spiectify_windows_fix/edit/main/Spotify-Spicetify-Setup.ps1 | iex
 ```
 
 That's it. The script asks you to confirm before it touches anything, then does the rest.
